@@ -1,2 +1,2 @@
-# test-fork-main
-Original repo for the fork test. Simulates dawn-design.
+# test-fork-copy
+Copied repo for the fork test. Simulates project-design.
